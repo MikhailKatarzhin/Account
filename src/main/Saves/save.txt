@@ -1,0 +1,1 @@
+[{"balance":10,"multiplier":1,"currency":"RUB"},{"balance":0.000004,"multiplier":0.12,"currency":"daw"},{"balance":123.000,"multiplier":30,"currency":"dweqwe"}]
